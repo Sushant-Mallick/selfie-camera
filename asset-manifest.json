@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selfie-camera/static/css/main.561af09c.css",
+    "main.js": "/selfie-camera/static/js/main.01c7fc01.js",
+    "index.html": "/selfie-camera/index.html",
+    "main.561af09c.css.map": "/selfie-camera/static/css/main.561af09c.css.map",
+    "main.01c7fc01.js.map": "/selfie-camera/static/js/main.01c7fc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561af09c.css",
+    "static/js/main.01c7fc01.js"
+  ]
+}
